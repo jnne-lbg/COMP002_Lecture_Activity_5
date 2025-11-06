@@ -11,7 +11,6 @@ for (let item of arr1) {
 }
 
 arr1.push(30, 35, 40, 45, 50);
-console.log(arr1);
 // The new items appear at the end of the array and the array is now [5, 10, 15, 20, 25, 30, 35, 40, 45, 50].
 
 arr1.pop();
